@@ -1,0 +1,13 @@
+C:\Users\guima\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\guima\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\guima\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\guima\source\repos\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.vbprojAssemblyReference.cache
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.cache
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\guima\source\repos\Calculadora\obj\Debug\Calculadora.Creditos.resources
